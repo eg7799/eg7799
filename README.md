@@ -1,9 +1,9 @@
 ### Hi there! 👋
-
-🔭 I’m currently working on:
-📊 Performing ETL with Python via CLI for Google Analytics Data Reporting;
-📈 Data visualization thereof using Tableau; and
-🕸️ Website templates that incorporate CSS animations with libraries such as Animate.css, Lottie & Protopie.
+###
+### 🔭 I’m currently working on:
+### 📊 Performing ETL with Python via CLI for Google Analytics Data Reporting;
+### 📈 Data visualization thereof using Tableau; and
+### 🕸️ Website templates that incorporate CSS animations with libraries such as Animate.css, Lottie & Protopie.
 
 <!--
 **eg7799/eg7799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
