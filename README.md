@@ -1,9 +1,17 @@
 ### Hi there! 👋
 ###
+
+<style>
+  p {
+    line-height:2;
+  }
+</style>
 <h3> 🔭 I’m currently working on:</h3>
+<p>
 <br>📊 Performing ETL with Python via CLI for Google Analytics Data Reporting;
 <br>📈 Data visualization thereof using Tableau; and
 <br>🕸️ Website templates that incorporate CSS animations with libraries such as Animate.css, Lottie & Protopie.
+</p>
 
 <!--
 **eg7799/eg7799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
