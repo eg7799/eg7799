@@ -1,6 +1,6 @@
 ### Hi there! 👋
 ###
-<h2> 🔭 I’m currently working on:</h2>
+<h3> 🔭 I’m currently working on:</h3>
 <ul>
   <li>📊 Performing ETL with Python via CLI for Google Analytics Data Reporting;</li>
   <li>📈 Data visualization thereof using Tableau; and</li>
